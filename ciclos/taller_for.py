@@ -24,3 +24,8 @@ step=int(input("de cuanto en cuanto"))
 
 for i in range(inicio,tope,step):
     print(i)
+
+for i in range(10):
+    for j in range(i):
+        print("*",end="")
+    print()
