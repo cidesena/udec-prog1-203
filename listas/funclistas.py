@@ -44,3 +44,8 @@ print(sumaLista(vec3))
 print(sumaParLista(vec3))
 print(sumaImparLista(vec3))
 
+# def most_frequent(List):
+#     return max(set(List), key=List.count)
+
+# List = [2, 1, 2, 2, 1, 3]
+# print(most_frequent(List))
