@@ -1,0 +1,2 @@
+v={}
+print(type(v))
